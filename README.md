@@ -1,3 +1,5 @@
+(2019-2020, not tested since)
+
 This bot scrapes instagram, looks for giveaway posts (or anything really, you decide what to look for) and then likes, comments and tags a friend.
 
 This bot is for demo purpose only, DO NOT USE OK ?? you BAD human, trying to scam influencers, unbelieavable.
