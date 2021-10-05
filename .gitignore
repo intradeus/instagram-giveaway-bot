@@ -1,0 +1,10 @@
+# Ignore everything:
+*
+
+# Except the necessary directories:
+
+!App.js
+!package.json
+!README.md
+!.env.example
+!.gitignore

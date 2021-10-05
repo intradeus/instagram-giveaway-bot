@@ -1,0 +1,21 @@
+{
+  "name": "instagram-giveaway-bot",
+  "version": "1.0.0",
+  "description": "instagram-giveaway-bot",
+  "main": "App.js",
+  "scripts": {
+    "start": "node App.js"
+  },
+  "keywords": [],
+  "author": "Intradeus",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "axios-retry": "^3.1.8",
+    "dotenv": "^8.2.0",
+    "instagood": "^1.4.1",
+    "node-localstorage": "^2.1.6",
+    "puppeteer": "^4.0.0"
+  },
+  "devDependencies": {}
+}
